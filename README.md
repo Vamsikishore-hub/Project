@@ -37,11 +37,6 @@ Now, run the Docker container:
 ```
 docker run -p 5003:5003 team3-app
 ```
-(For development only)
-```
-docker run -p 5003:5003 -v $(pwd):/app team3-app
-```
-
 The application will be available at:  http://localhost:5003/team3
 
 <!-- Accessing Jupyter Notebook http://localhost:6003/ -->
