@@ -18,15 +18,13 @@ To get started, first clone the repository to your local machine:
 git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team3.git
 ```
 
+
+select while running the docker
 After cloning the repository, navigate to the project directory:
 ```
 cd csusb_fall2024_cse6550_team3
 ```
 
-Update Local Repository
-```
-git pull origin main
-```
 
 Once you are in correct folder, build the Docker image:
 ```
